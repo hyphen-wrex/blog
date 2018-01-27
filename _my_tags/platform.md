@@ -1,4 +1,0 @@
----
-slug: platform
-name: Platform
----
