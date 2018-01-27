@@ -30,7 +30,7 @@ you solve the puzzle entirely.
 Again, we're restrained by platform limits.
 
 # Procrastination
-All of us experienced this. You have hard time doing something, because you're already doing something
+All of us have experienced this. You have hard time doing something, because you're already doing something
 more pleasant. This problem is harder than previous ones because it is your problem. The problem of
 consciousness itself. And those sets of problems are the most difficult ones to solve. We'll talk about
 this later.
